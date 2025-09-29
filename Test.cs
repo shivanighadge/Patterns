@@ -4,6 +4,7 @@ public class Class1
 {
 	public Class1()
 	{
-		private readonly name="Shivani";
+		private readonly string name="Shivani";
+		public string surname1 = "Ghadge";
 	}
 }
