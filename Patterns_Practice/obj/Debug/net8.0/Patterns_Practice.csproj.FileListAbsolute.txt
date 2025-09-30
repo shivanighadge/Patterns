@@ -1,0 +1,14 @@
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\bin\Debug\net8.0\Patterns_Practice.exe
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\bin\Debug\net8.0\Patterns_Practice.deps.json
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\bin\Debug\net8.0\Patterns_Practice.runtimeconfig.json
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\bin\Debug\net8.0\Patterns_Practice.dll
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\bin\Debug\net8.0\Patterns_Practice.pdb
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\Patterns_Practice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\Patterns_Practice.AssemblyInfoInputs.cache
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\Patterns_Practice.AssemblyInfo.cs
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\Patterns_Practice.csproj.CoreCompileInputs.cache
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\Patterns_Practice.dll
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\refint\Patterns_Practice.dll
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\Patterns_Practice.pdb
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\Patterns_Practice.genruntimeconfig.cache
+D:\Dot Net Video\.NET CORE Practice\Patterns_Practice\Patterns_Practice\obj\Debug\net8.0\ref\Patterns_Practice.dll
